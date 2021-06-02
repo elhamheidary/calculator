@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+table {border-collapse: collapse; text-align: center; border-style: hidden}
+input, button {padding: 20px 20px 20px 20px; font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";font-size:5vw; border: none;background-color:rgba(0, 0, 0, 0) ; color:#4F4D4D; }
+td{background-color:rgba(255, 255, 255, 0.4);}
+div{ background-image: url( "bg1.jpg");background-repeat: no-repeat ; max-width:45%}
+.tdshadow:hover{background-color: #f5f5f5;}
